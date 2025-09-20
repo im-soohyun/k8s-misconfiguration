@@ -123,12 +123,3 @@ Skipped directories: `.git`, `.hg`, `.svn`, `node_modules`, `venv`, `.venv`, `__
 ├─ requirements.txt
 └─ README.md
 ```
-
-### Development Tips
-- As your app grows, split controllers/services by feature for maintainability.
-- Tweak regex rules in `services/scan_service.py` to add or refine checks.
-- For CI security checks, set `APP_DEBUG=false`.
-
-### License
-Add your license here.
-# k8s-misconfiguration
